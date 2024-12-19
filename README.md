@@ -52,3 +52,17 @@
     </div>
 </body>
 </html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>时间轴页面</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="background">
+    <div class="timeline">
+        <!-- 时间轴内容 -->
+    </div>
+</body>
+</html>
